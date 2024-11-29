@@ -1,6 +1,5 @@
 # Atest - Engenharia de Segurança do Trabalho
 
-![Atest Logo](https://github.com/lanroo/atest/blob/main/public/logo.png)
 
 ## 🚀 Sobre o Projeto
 
