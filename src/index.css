@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .service-card {
+    @apply relative overflow-hidden;
+  }
+
+  .service-card::after {
+    content: '';
+    @apply absolute bottom-0 left-0 w-full h-1 bg-green-500 transform scale-x-0 transition-transform duration-300;
+  }
+
+  .service-card:hover::after {
+    @apply scale-x-100;
+  }
+}
