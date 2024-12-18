@@ -82,14 +82,14 @@ const Contato = () => {
             {/* Map */}
             <div className="h-[400px] rounded-lg overflow-hidden shadow-lg relative">
               <img
-                src="https://images.unsplash.com/photo-1553290322-0440b3457e3b?auto=format&fit=crop&q=80&w=1200"
+                src="https://developers.google.com/static/maps/images/landing/react-codelab-thumbnail.png?hl=pt-br"
                 alt="Mapa da localização"
                 className="w-full h-full object-cover brightness-95"
               />
               <div className="absolute inset-0 bg-black/10" />
               <div className="absolute inset-0 flex items-center justify-center">
                 <a
-                  href="https://www.google.com/maps/place/Av.+Pedro+Miranda,+1035+-+Pedreira,+Belém+-+PA,+66085-005"
+                  href="https://www.google.com/maps/place/Av.+Pedro+Miranda,+1010+-+Pedreira,+Belém+-+PA,+66085-005"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white hover:bg-blue-50 text-blue-600 px-6 py-3 rounded-lg font-semibold transition-colors flex items-center gap-2 shadow-lg"
