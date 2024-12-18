@@ -6,15 +6,15 @@ const testimonials = [
     name: "João Silva",
     role: "Gerente de Segurança",
     company: "Construtora ABC",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200&h=200",
+    image: "https://media.istockphoto.com/id/1399565382/pt/foto/young-happy-mixed-race-businessman-standing-with-his-arms-crossed-working-alone-in-an-office.jpg?s=612x612&w=0&k=20&c=iTFUbmjvse1XVGTclaZb-3bc0Up9p5VBpkWLzb_XLJA=",
     content: "A Atest transformou completamente nossa abordagem em segurança do trabalho. Os treinamentos e consultorias foram fundamentais para reduzir nossos índices de acidentes em 85%.",
     rating: 5
   },
   {
-    name: "Maria Santos",
+    name: "Rebeca Yeuj",
     role: "Diretora de RH",
-    company: "Indústria XYZ",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200&h=200",
+    company: "YAMAHA",
+    image: "https://static.vecteezy.com/ti/fotos-gratis/t1/23907401-jovem-sorridente-empresaria-em-pe-dentro-borrao-fundo-do-escritorio-generativo-ai-foto.jpg",
     content: "Excelente parceria em medicina ocupacional. A equipe é altamente profissional e os laudos técnicos são sempre entregues com rapidez e qualidade.",
     rating: 5
   },
@@ -22,7 +22,7 @@ const testimonials = [
     name: "Carlos Oliveira",
     role: "Coordenador de SESMT",
     company: "Grupo Industrial Beta",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=200&h=200",
+    image: "https://img.freepik.com/fotos-premium/estas-hablando-ceo-foto-apuesto-hombre-negocios-maduro-sentado-solo-su-oficina_590464-58156.jpg",
     content: "Os programas de prevenção implementados pela Atest nos ajudaram a manter a conformidade com todas as normas regulamentadoras. Recomendo fortemente!",
     rating: 5
   }
